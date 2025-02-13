@@ -111,7 +111,7 @@ with(final_df, {
 ![plot1](plot1.png)
 
 ### Plot 2
-![plot2](plot2.png)
+![plot2](plot2.R.png)
 
 ### Plot 3
 ![plot3](plot3.png)
